@@ -6,7 +6,7 @@ enterprise AI systems are designed, governed, and operationalized in real enviro
 All examples abstract away client identity, proprietary data, and implementation detail
 while preserving the **decision logic, tradeoffs, and operating principles**.
 
-## Where do agentic decisions create value?
+## Where do agentic decisions materially improve outcomes?
 Enterprise AI work is often difficult to demonstrate publicly due to:
 - Client confidentiality
 - Proprietary IP
@@ -106,8 +106,3 @@ This repository complements:
 See related repositories for deeper frameworks.
 
 ---
-
-## Related repositories
-- [`enterprise-ai-discovery-kit`](../../../enterprise-ai-discovery-kit)
-- [`agentic-decision-boundaries`](../../../agentic-decision-boundaries)
-- [`ai-governance-by-design`](../../../ai-governance-by-design)
