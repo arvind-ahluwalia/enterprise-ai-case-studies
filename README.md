@@ -99,9 +99,9 @@ Each case study follows a consistent structure:
 ## How this repository fits into a broader system view
 This repository complements:
 
-- **Why the AI system exists** → enterprise discovery and value framing  
-- **When AI should act** → explicit decision boundaries  
-- **How AI is controlled** → governance-by-design mechanisms  
+- **What problem and decisions justify AI intervention?** → enterprise discovery and value framing  
+- **When should the AI act?** → explicit decision boundaries  
+- **How is the AI controlled?** → governance-by-design mechanisms  
 
 See related repositories for deeper frameworks.
 
