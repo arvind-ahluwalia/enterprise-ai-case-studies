@@ -108,6 +108,6 @@ See related repositories for deeper frameworks.
 ---
 
 ## Related repositories
-- [`enterprise-ai-discovery-kit`](/arvind-ahluwalia/enterprise-ai-discovery-kit)
-- [`agentic-decision-boundaries`](/arvind-ahluwalia/agentic-decision-boundaries)
-- [`ai-governance-by-design`](/arvind-ahluwalia/ai-governance-by-design)
+- [`enterprise-ai-discovery-kit`](../../../enterprise-ai-discovery-kit)
+- [`agentic-decision-boundaries`](../../../agentic-decision-boundaries)
+- [`ai-governance-by-design`](../../../ai-governance-by-design)
