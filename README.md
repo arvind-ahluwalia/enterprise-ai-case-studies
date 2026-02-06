@@ -1,18 +1,14 @@
 # Enterprise AI Case Studies (Anonymized)
 
-This repository contains **anonymized, pattern-based case studies** illustrating how
-enterprise AI systems are designed, governed, and operationalized in real environments.
+This repository presents **anonymized, pattern-based case studies** examining how
+enterprise AI systems behave under real-world constraints.
 
-All examples abstract away client identity, proprietary data, and implementation detail
-while preserving the **decision logic, tradeoffs, and operating principles**.
+The focus is on **decision behavior, autonomy boundaries, governance mechanisms,
+and operational tradeoffs**, rather than on specific clients, products, or
+implementations.
 
-## Where do agentic decisions materially improve outcomes?
-Enterprise AI work is often difficult to demonstrate publicly due to:
-- Client confidentiality
-- Proprietary IP
-- Regulatory and commercial sensitivity
-
-This repository bridges that gap by focusing on **how decisions were structured and controlled**, not on code artifacts.
+By abstracting identity while preserving structure and outcomes, these case
+studies are intended to support learning, comparison, and reuse across domains.
 
 ---
 
